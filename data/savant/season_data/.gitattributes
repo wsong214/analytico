@@ -1,0 +1,10 @@
+2015.feather filter=lfs diff=lfs merge=lfs -text
+2016.feather filter=lfs diff=lfs merge=lfs -text
+2022.feather filter=lfs diff=lfs merge=lfs -text
+2023.feather filter=lfs diff=lfs merge=lfs -text
+2024.feather filter=lfs diff=lfs merge=lfs -text
+2017.feather filter=lfs diff=lfs merge=lfs -text
+2018.feather filter=lfs diff=lfs merge=lfs -text
+2019.feather filter=lfs diff=lfs merge=lfs -text
+2020.feather filter=lfs diff=lfs merge=lfs -text
+2021.feather filter=lfs diff=lfs merge=lfs -text
